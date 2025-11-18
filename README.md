@@ -1,12 +1,12 @@
 # SpecialK-03.github.io
 KB Special Projects
 
-# Kaleb | Cybersecurity Portfolio
+# Kaleb's Cybersecurity Portfolio
 
-Welcome to my portfolio!  
-I’m a U.S. Army veteran and former combat medic, now pursuing a career in cybersecurity.  
-Currently completing a master’s degree in cybersecurity, with hands-on experience in penetration testing, compliance mapping, and technical troubleshooting.  
-Co-founder of a fitness/lifestyle apparel brand, blending creativity with technical expertise.
+Welcome to my learning grounds!  
+Highly motivated U.S. Army Veteran with extensive experience as a combat medic, and CompTIA  PenTest+, CySA+, Security+ and Network+ certified. Skilled in high-pressure decision-making, problem-solving, and managing operations with precision and efficiency. Proven ability to lead, adapt, and learn in dynamic environments. 
+
+As an entrepreneur, I built and scaled an online business, mastering technology-driven operations, customer engagement, and process optimization. Currently transitioning into the IT field, bringing a disciplined work ethic, strong technical aptitude, and a passion for leveraging technology to drive innovation and success.
 
 ---
 
@@ -37,20 +37,21 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
 ---
 
 ## 🎓 Certifications
-- CompTIA Network+  
+- CompTIA PenTest+
+- CompTIA CySA+
 - CompTIA Security+  
-- CompTIA CySA+  
-- CompTIA PenTest+ (in progress)  
+- CompTIA Network+  
 
-View verified credentials on [Credly](https://www.credly.com/users/YOURUSERNAME).
+
+View verified credentials on [Credly](https://www.credly.com/users/kaleb-barnes).
 
 ---
 
 ## 📫 Contact
-- GitHub: [YOURUSERNAME](https://github.com/YOURUSERNAME)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOURUSERNAME)  
-- Email: your.email@example.com  
+- GitHub: (https://github.com/Special-K03)  
+- LinkedIn: (https://www.linkedin.com/in/kaleb-barnes-/)  
+- Email: kbarnes5789@gmail.com 
 
 ---
 
-© 2025 Kaleb | Built with GitHub Pages
+© 2025 Kaleb Barnes | Always Learning 
