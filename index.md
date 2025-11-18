@@ -1,9 +1,9 @@
 # Kaleb | Cybersecurity Portfolio
 
-Welcome to my portfolio!  
-I’m a U.S. Army veteran and former combat medic, now pursuing a career in cybersecurity.  
-Currently completing a master’s degree in cybersecurity, with hands-on experience in penetration testing, compliance mapping, and technical troubleshooting.  
-Co-founder of a fitness/lifestyle apparel brand, blending creativity with technical expertise.
+Welcome to my learning grounds!
+Highly motivated U.S. Army Veteran with extensive experience as a combat medic, and CompTIA PenTest+, CySA+, Security+ and Network+ certified. Skilled in high-pressure decision-making, problem-solving, and managing operations with precision and efficiency. Proven ability to lead, adapt, and learn in dynamic environments.
+
+As an entrepreneur, I built and scaled an online business, mastering technology-driven operations, customer engagement, and process optimization. Currently transitioning into the IT field, bringing a disciplined work ethic, strong technical aptitude, and a passion for leveraging technology to drive innovation and success.
 
 ---
 
