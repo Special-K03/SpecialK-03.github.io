@@ -34,24 +34,24 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
 ---
 
 ## 🎓 Certifications
-<div class="cert-grid">
-  <div class="cert-item">
-     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4aabfdd-145a-4b7e-9199-0a174193c9ab" data-share-badge-host="https://www.credly.com"></div> <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <p>CompTIA PenTest+</p>
+  <div class="cert-grid">
+    <div class="cert-item">
+       <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4aabfdd-145a-4b7e-9199-0a174193c9ab" data-share-badge-host="https://www.credly.com"></div> <script type="text/javascript" async   src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <p>CompTIA PenTest+</p>
+    </div>
+    <div class="cert-item">
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8fb57a62-a591-4434-bcb5-d9eeab9cf0fa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async   src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <p>CompTIA CySA+</p>
+    </div>
+    <div class="cert-item">
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="94eccf88-af93-430f-b988-473daac94374" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <p>CompTIA Security+</p>
+    </div>
+    <div class="cert-item">
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f82eded2-3fb9-45ce-8807-b314c973b611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+      <p>CompTIA Network+</p>
+    </div> 
   </div>
-  <div class="cert-item">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8fb57a62-a591-4434-bcb5-d9eeab9cf0fa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <p>CompTIA CySA+</p>
-  </div>
-  <div class="cert-item">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="94eccf88-af93-430f-b988-473daac94374" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <p>CompTIA Security+</p>
-  </div>
-  <div class="cert-item">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f82eded2-3fb9-45ce-8807-b314c973b611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <p>CompTIA Network+</p>
-  </div> 
-</div>
 
 View verified credentials on [Credly](https://www.credly.com/users/kaleb-barnes).
 
