@@ -1,20 +1,24 @@
+/* Default: grid for larger screens */
 .cert-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 items per row */
+  grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   justify-items: center;
 }
 
-.cert-item {
-  text-align: center;
-  padding: 15px;
-  background: #161b22;
-  border: 1px solid #30363d;
-  border-radius: 8px;
-}
+/* Mobile: horizontal scroll */
+@media (max-width: 768px) {
+  .cert-grid {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    padding: 10px;
+    scroll-snap-type: x mandatory;
+  }
 
-.cert-item p {
-  margin-top: 8px;
-  color: #58a6ff;
-  font-weight: bold;
+  .cert-item {
+    flex: 0 0 auto;
+    width: 200px;
+    scroll-snap-align: start;
+  }
 }
