@@ -34,10 +34,29 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
 ---
 
 ## 🎓 Certifications
-- CompTIA PenTest+ 
-- CompTIA CySA+
-- CompTIA Security+  
-- CompTIA Network+  
+<div class="cert-grid">
+  <!-- Credly embed code for each certification -->
+  <div class="cert-item">
+     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4aabfdd-145a-4b7e-9199-0a174193c9ab" data-share-badge-host="https://www.credly.com"></div> <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <p>CompTIA PenTest+</p>
+  </div>
+  
+  <div class="cert-item">
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8fb57a62-a591-4434-bcb5-d9eeab9cf0fa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <p>CompTIA CySA+</p>
+  </div>
+  
+  <div class="cert-item">
+    <iframe src="https://www.credly.com/embedded_badge/YOUR-SECURITYPLUS-ID" width="200" height="200" frameborder="0"></iframe>
+    <p>CompTIA Security+</p>
+  </div>
+
+  <div class="cert-item">
+    <iframe src="https://www.credly.com/embedded_badge/YOUR-NETWORKPLUS-ID" width="200" height="200" frameborder="0"></iframe>
+    <p>CompTIA Network+</p>
+  </div> 
+</div>
+
 
 
 View verified credentials on [Credly](https://www.credly.com/users/kaleb-barnes).
