@@ -1,0 +1,18 @@
+kaleb-portfolio/
+│
+├── _config.yml              # Site configuration
+├── index.md                 # Home page (Markdown)
+│
+├── _data/                   # Data files (YAML, JSON, CSV)
+│   └── projects.yml         # Your project list
+│
+├── _includes/               # Reusable components
+│   └── project-card.html    # Layout for project cards
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css        # Custom styles
+│   └── images/
+│       ├── project1.png
+│       ├── project2.png
+│       └── project3.png
