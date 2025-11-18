@@ -44,11 +44,11 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
     <p>CompTIA CySA+</p>
   </div>
   <div class="cert-item">
-    <iframe src="https://www.credly.com/embedded_badge/YOUR-SECURITYPLUS-ID" width="200" height="200" frameborder="0"></iframe>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="94eccf88-af93-430f-b988-473daac94374" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <p>CompTIA Security+</p>
   </div>
   <div class="cert-item">
-    <iframe src="https://www.credly.com/embedded_badge/YOUR-NETWORKPLUS-ID" width="200" height="200" frameborder="0"></iframe>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f82eded2-3fb9-45ce-8807-b314c973b611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <p>CompTIA Network+</p>
   </div> 
 </div>
