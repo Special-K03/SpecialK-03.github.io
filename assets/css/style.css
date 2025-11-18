@@ -1,14 +1,16 @@
 .cert-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 items per row */
   gap: 20px;
-  justify-content: center;
+  justify-items: center;
 }
 
 .cert-item {
   text-align: center;
-  flex: 1 1 200px;
-  max-width: 220px;
+  padding: 15px;
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 8px;
 }
 
 .cert-item p {
