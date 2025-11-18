@@ -1,0 +1,15 @@
+- title: CompTIA PenTest+ 
+  image: assets/images/pentestplus.png
+  link: https://www.credly.com/badges/YOUR-PENTESTPLUS-ID
+
+- title: CompTIA CySA+
+  image: assets/images/cysa.png
+  link: https://www.credly.com/badges/YOUR-CYSA-ID
+
+- title: CompTIA Security+
+  image: assets/images/securityplus.png
+  link: https://www.credly.com/badges/YOUR-SECURITYPLUS-ID
+
+- title: CompTIA Network+
+  image: assets/images/networkplus.png
+  link: https://www.credly.com/badges/YOUR-NETWORKPLUS-ID
