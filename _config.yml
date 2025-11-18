@@ -1,8 +1,6 @@
-title: Kaleb B | Cybersecurity Portfolio
-description: Cybersecurity projects, Certifications, and Tools
+title: Kaleb | Cybersecurity Portfolio
+description: Cybersecurity projects, certifications, and tools
 remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
 plugins:
   - jekyll-remote-theme
-markdown: kramdown
-sass:
-  style: compressed
