@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kaleb | Cybersecurity Portfolio
-css: /assets/css/style.css
 ---
 
 
