@@ -34,7 +34,7 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
 ---
 
 ## 🎓 Certifications
-- CompTIA PenTest+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4aabfdd-145a-4b7e-9199-0a174193c9ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- CompTIA PenTest+ 
 - CompTIA CySA+
 - CompTIA Security+  
 - CompTIA Network+  
