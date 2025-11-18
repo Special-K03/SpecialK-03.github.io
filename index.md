@@ -34,20 +34,21 @@ Here are some of my cybersecurity projects. Each links directly to its GitHub re
 ---
 
 ## 🎓 Certifications
-- CompTIA Network+  
+- CompTIA PenTest+
+- CompTIA CySA+
 - CompTIA Security+  
-- CompTIA CySA+  
-- CompTIA PenTest+ (in progress)  
+- CompTIA Network+  
 
-View verified credentials on [Credly](https://www.credly.com/users/YOURUSERNAME).
+
+View verified credentials on [Credly](https://www.credly.com/users/kaleb-barnes).
 
 ---
 
 ## 📫 Contact
-- GitHub: [YOURUSERNAME](https://github.com/YOURUSERNAME)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOURUSERNAME)  
-- Email: your.email@example.com  
+- GitHub: (https://github.com/Special-K03)  
+- LinkedIn: (https://www.linkedin.com/in/kaleb-barnes-/)  
+- Email: kbarnes5789@gmail.com 
 
 ---
 
-© 2025 Kaleb | Built with GitHub Pages
+© 2025 Kaleb Barnes | Always Learning 
