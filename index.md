@@ -1,3 +1,10 @@
+---
+layout: default
+title: Kaleb | Cybersecurity Portfolio
+css: /assets/css/style.css
+---
+
+
 # Kaleb | Cybersecurity Portfolio
 
 Welcome to my learning grounds!
