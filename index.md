@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kaleb | Cybersecurity Portfolio
+---
+
 # Kaleb | Cybersecurity Portfolio
 
 Welcome to my learning grounds!
